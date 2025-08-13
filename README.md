@@ -15,3 +15,7 @@ Further elevate analysis by taking clean business ready data into PowerBi and ut
 * Integration: combine both sources into a single, user-friendly data model design for analytical querying
 * Scope: focus on the latest dataset only; historization of data is nnot required
 * Documentation: provide clear documentation of the data model to support both business stakeholders and analytics usage
+
+
+Process Beginnings: 
+--- 
