@@ -5,8 +5,7 @@ DDL Script:
 ======================
 Actions: 
   This script creates tables in the 'silver' schema, dropping any existing tables with the same name if they already exist.
-      Running this script re-defines the DDL structure of the 'bronze' tables by cleaning data, normalising data, handling missing information and 
-      introducting standardised processes.
+      Running this script re-defines the DDL structure of the 'bronze' tables.
 ======================
 */
 
