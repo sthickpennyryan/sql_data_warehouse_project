@@ -1,0 +1,12 @@
+Data Catalog for the Gold Layer
+
+  ========================
+  Overview: The Gold layer contains contains business ready data which has been prepared and is ready for 
+  analytics and reporting. It contains dimension tables and fact tables specific for business related use.
+
+
+1) gold.dim_customers
+
+  Purpose: Stores customer details, enriched with demographic and geograpical information.
+  Columns:
+  
